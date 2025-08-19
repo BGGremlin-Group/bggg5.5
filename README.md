@@ -66,7 +66,7 @@
 
 2. **Clone or Download**:
    ```cmd
-   git clone https://github.com/your-repo/bggg.git
+   git clone https://github.com/BGGremlin-Group/upscaler5.5.git
    cd bggg
    ```
    *Note*: If Git is not installed, download the ZIP from the repository and extract it.
