@@ -1,0 +1,8 @@
+# Required dependencies for core functionality (TUI and Web UI)
+requests>=2.28.0
+flask>=2.0.0
+
+# Optional dependencies for enhanced features
+colorama>=0.4.4        # For colored console output in TUI (recommended for Windows Terminal)
+pygame>=2.1.0          # For CRT GUI
+watchdog>=2.1.0        # For real-time folder watching
