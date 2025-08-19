@@ -8,6 +8,7 @@ Project structure:
 bggg\
 ├── bggg.py              # Main script
 ├── requirements.txt     # Python dependencies
+├── LICENSE              # MIT License
 ├── README.md            # Documentation
 ├── CHANGELOG.md         # Changelog
 ├── AdditionalNotes.md.  # Config Notes
